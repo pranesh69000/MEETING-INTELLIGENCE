@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node/Frontend
+node_modules/
+dist/
+.DS_Store
+
+# Project Specific
+backend/recordings/
+recordings/
+backend/credentials.json
+backend/token.json
+*.wav
+*.txt
+
+# Editor
+.vscode/
